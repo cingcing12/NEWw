@@ -1,0 +1,13 @@
+.hidden{
+    display: none;
+}
+
+
+
+@media(max-width:991px){
+    .countShopping{
+        position: absolute;
+        top: -5px;
+        right: -6px;
+    }
+}
